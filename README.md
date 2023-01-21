@@ -37,9 +37,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumon670&theme=dark" alt="sumon670" /></a> </p>
 
 <h3 align="left">My Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon670&layout=compact&theme=dark" alt="sumon670" /></p>
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon670&layout=compact&theme=dark" alt="sumon670" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumon670&show_icons=true&theme=radical" alt="sumon670" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumon670&theme=dark" alt="sumon670" /></p>
+
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sumon670&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sumon670" /></p>

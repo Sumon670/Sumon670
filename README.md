@@ -34,10 +34,12 @@
 
 <h3 align="left">My Performance:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumon670" alt="sumon670" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumon670&theme=dark" alt="sumon670" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumon670&show_icons=true&locale=en&layout=compact" alt="sumon670" /></p>
+<h3 align="left">My Github Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon670&layout=compact&theme=dark" alt="sumon670" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumon670&show_icons=true&locale=en" alt="sumon670" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumon670&" alt="sumon670" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumon670&show_icons=true&theme=radical" alt="sumon670" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumon670&theme=dark" alt="sumon670" /></p>

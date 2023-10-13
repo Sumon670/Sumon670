@@ -50,4 +50,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumon670&theme=dark" alt="sumon670" /></p>
 
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sumon670&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sumon670" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumon670&theme=dracula" alt="sumon670" /></p>
